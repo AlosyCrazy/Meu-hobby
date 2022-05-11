@@ -1,0 +1,31 @@
+#Titulo {
+    font-family: "Teko";
+    font-size: 200px;
+}
+#Topo {
+    width: 1300px;
+    border-radius: 60px;
+}
+body {
+    text-align: center;
+    background: #6A5ACD;
+}
+#MeuDesenhoMaisRecente {
+    background: linear-gradient(#6A5ACD 0%, #191970 100%);
+    width: auto;
+}
+#MeusYoutubersFavoritos {
+    background: linear-gradient(#6A5ACD 0%, #191970 100%);
+    width:auto;
+}
+iframe {
+    width:1200px;
+    border-radius: 60px;
+}
+#menu {
+    background-color: cornflowerblue;
+    list-style: none;
+}
+#menu a {
+    text-decoration: none;
+}
